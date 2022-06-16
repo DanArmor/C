@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C", "index.html", [
     [ "The Algorithms - C", "index.html", [
-      [ "Overview", "index.html#autotoc_md68", null ],
-      [ "Features", "index.html#autotoc_md69", null ],
-      [ "Documentation", "index.html#autotoc_md70", null ],
-      [ "Contributions", "index.html#autotoc_md71", null ]
+      [ "Overview", "index.html#autotoc_md69", null ],
+      [ "Features", "index.html#autotoc_md70", null ],
+      [ "Documentation", "index.html#autotoc_md71", null ],
+      [ "Contributions", "index.html#autotoc_md72", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md1", null ],
@@ -99,6 +99,7 @@ var NAVTREE =
       [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ]
     ] ],
     [ "Sample solutions for <a href=\"http://exercism.io/\" target=\"_blank\" >exercism.io</a>", "d7/db5/md_exercism__r_e_a_d_m_e.html", null ],
+    [ "Game Of Life", "d4/de2/md_games_game_of_life__r_e_a_d_m_e.html", null ],
     [ "Hash algorithms", "d4/dcb/md_hash__r_e_a_d_m_e.html", null ],
     [ "LeetCode", "df/d58/md_leetcode__r_e_a_d_m_e.html", null ],
     [ "ProjectEuler", "d8/d81/md_project_euler__r_e_a_d_m_e.html", null ],
@@ -129,8 +130,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/d99/ode__semi__implicit__euler_8c.html#a8caee977b26888d34040b122e0e28e3a",
-"d9/dcc/prim_8c.html#abf9e6b7e6f15df4b525a2e7705ba3089",
-"dd/d8c/adaline__learning_8c.html#a3c04138a5bfe5d72780bb7e82a18e627"
+"d9/dcc/prim_8c.html#a72ec66b10f86d67064d34f2b2717fdfc",
+"dd/d8c/adaline__learning_8c.html#a05cc9a0acb524fde727a4d7b4a747ee6"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
